@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la /basics/holberton-shell/root/boot
